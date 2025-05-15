@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I’m an IT student (BTS SIO) passionate about dev
 
 - 🛠 As mentioned earlier, I’m currently in my first year of IT studies in France.
 - 🚧 I’m currently working on my portfolio!
-- 📚 I enjoy reading  
+- 📚 I enjoy reading
+- 🎼 I make music 
 - 🎮 I'm a gamer at heart  
 - 💡 And I love turning ideas into code!
 - 📫 How to reach me: [Through LinkedIn](https://www.linkedin.com/in/maxime-damas-323a54326/) | [Through the contact form on my portfolio (WIP)](https://maxime-damas.fr)
@@ -42,7 +43,8 @@ Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique, passionné 
 
 - 🛠 Comme mentionné plus tôt, je suis actuellement en première année d'études en informatique (BTS SIO) en France.
 - 🚧 Je travaille actuellement sur mon portfolio !
-- 📚 J’aime lire  
+- 📚 J’aime lire
+- 🎼 Je fais de la musique 
 - 🎮 Je suis un vrai gamer dans l'âme  
 - 💡 Et j’adore transformer mes idées en code !
 - 📫 Me contacter : [Via LinkedIn](https://www.linkedin.com/in/maxime-damas-323a54326/) | [Via le formulaire de contact sur mon portfolio (en cours)](https://maxime-damas.fr)
