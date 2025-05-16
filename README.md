@@ -64,3 +64,6 @@ Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique, passionné 
 - 🎮 Jogo principalmente minecraft e fragpunk.
 - 🧭 나는 프랑스 북부에 살아요.
 - ✈ j'adorerais visiter les Royaumes-Unis, les Pays-Bas, la Grece et la Corée.
+
+ ![image](https://i.pinimg.com/originals/05/87/0c/05870c15dd7090720561a34cd3d138a5.gif)
+
