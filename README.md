@@ -3,7 +3,7 @@
 
 ### 👋 Hello World! I'm Maxime Damas
 
-Welcome to my GitHub profile! I’m an IT student (BTS SIO) passionate about development, mainly software development.
+Welcome to my GitHub profile! I’m an IT student (BTS SIO) passionate about development, mainly software development AND cybersec.
 
 ## ❓ About Me
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m an IT student (BTS SIO) passionate about dev
 
 ### 👋 Hello World ! Moi c'est Maxime Damas
 
-Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique, passionné par le développement et principalement le développement de logiciels.
+Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique, passionné par le développement et principalement le développement de logiciels et la cybersécurité.
 
 ## ❓ À propos de moi
 
